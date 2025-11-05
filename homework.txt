@@ -1,0 +1,4 @@
+echo "Tasks: 1. create a new branch in your GitHub repository
+2. find one of the projects and clone it to your local repository
+3. create a new file called homework.txt and write this homework on it
+4. push the whole content on your new branch" > homework.txt
